@@ -16,7 +16,7 @@ MultiplePupils 是TracelessSec团队开发的一款信息收集工具，主要�
 
 支持免安装和安装两种方式：
 1. 免安装版 ==> MultiplePupils.zip
-2. 安装版 ==> MultiplePupils-windows-X64-setup.exe
+2. 安装版 ==> MultiplePupils-windows-x64-setup.exe
 
 ### 0x04 版本规划
 
